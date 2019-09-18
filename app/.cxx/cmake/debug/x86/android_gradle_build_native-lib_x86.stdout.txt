@@ -1,0 +1,2 @@
+ninja: Entering directory `E:\dev\work\app\TaskOk\app\.cxx\cmake\debug\x86'
+ninja: no work to do.

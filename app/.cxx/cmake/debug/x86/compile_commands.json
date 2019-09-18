@@ -1,0 +1,19 @@
+[
+{
+  "directory": "E:/dev/work/app/TaskOk/app/.cxx/cmake/debug/x86",
+  "command": "C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android16 --gcc-toolchain=C:/Users/Administrator/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Administrator/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -std=c++11 -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\native-lib.dir\\native-lib.cpp.o -c E:\\dev\\work\\app\\TaskOk\\app\\src\\main\\cpp\\native-lib.cpp",
+  "file": "E:\\dev\\work\\app\\TaskOk\\app\\src\\main\\cpp\\native-lib.cpp"
+},
+
+{
+  "directory": "E:/dev/work/app/TaskOk/app/.cxx/cmake/debug/x86",
+  "command": "C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=i686-none-linux-android16 --gcc-toolchain=C:/Users/Administrator/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Administrator/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dnative_lib_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\native-lib.dir\\task\\job.c.o   -c E:\\dev\\work\\app\\TaskOk\\app\\src\\main\\cpp\\task\\job.c",
+  "file": "E:\\dev\\work\\app\\TaskOk\\app\\src\\main\\cpp\\task\\job.c"
+},
+
+{
+  "directory": "E:/dev/work/app/TaskOk/app/.cxx/cmake/debug/x86",
+  "command": "C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\ndk-bundle\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=i686-none-linux-android16 --gcc-toolchain=C:/Users/Administrator/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Administrator/AppData/Local/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dnative_lib_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -mstackrealign -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security  -std=c++11 -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles\\native-lib.dir\\task\\Task.cpp.o -c E:\\dev\\work\\app\\TaskOk\\app\\src\\main\\cpp\\task\\Task.cpp",
+  "file": "E:\\dev\\work\\app\\TaskOk\\app\\src\\main\\cpp\\task\\Task.cpp"
+}
+]

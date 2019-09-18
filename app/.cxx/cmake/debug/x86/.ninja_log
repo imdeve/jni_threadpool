@@ -1,0 +1,6 @@
+# ninja log v5
+0	597	590430393	CMakeFiles/native-lib.dir/task/task.cpp.o	5c050b9f7d60a678
+25	791	590430393	CMakeFiles/native-lib.dir/native-lib.cpp.o	939d68b6555da443
+792	1079	590430393	E:/dev/work/app/TaskOk/app/build/intermediates/cmake/debug/obj/x86/libnative-lib.so	f56126511c23e1bb
+3	227	590509892	CMakeFiles/native-lib.dir/task/job.c.o	37063f2403538782
+227	524	590509893	E:/dev/work/app/TaskOk/app/build/intermediates/cmake/debug/obj/x86/libnative-lib.so	b56a9e7c7ecc8391

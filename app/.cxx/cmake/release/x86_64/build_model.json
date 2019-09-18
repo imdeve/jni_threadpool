@@ -1,0 +1,72 @@
+{
+  "variant": {
+    "module": {
+      "rootBuildGradleFolder": "E:\\dev\\work\\app\\TaskOk",
+      "sdkFolder": "C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk",
+      "isNativeCompilerSettingsCacheEnabled": false,
+      "isBuildOnlyTargetAbiEnabled": true,
+      "splitsAbiFilterSet": [],
+      "intermediatesFolder": "E:\\dev\\work\\app\\TaskOk\\app\\build\\intermediates",
+      "gradleModulePathName": ":app",
+      "moduleRootFolder": "E:\\dev\\work\\app\\TaskOk\\app",
+      "makeFile": "E:\\dev\\work\\app\\TaskOk\\app\\src\\main\\cpp\\CMakeLists.txt",
+      "buildSystem": "CMAKE",
+      "compilerSettingsCacheFolder": "E:\\dev\\work\\app\\TaskOk\\.cxx",
+      "cxxFolder": "E:\\dev\\work\\app\\TaskOk\\app\\.cxx",
+      "ndkFolder": "C:\\Users\\Administrator\\AppData\\Local\\Android\\Sdk\\ndk-bundle",
+      "ndkVersion": "20.0.5594570",
+      "ndkSupportedAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "ndkDefaultAbiList": [
+        "ARMEABI_V7A",
+        "ARM64_V8A",
+        "X86",
+        "X86_64"
+      ],
+      "cmakeToolchainFile": "."
+    },
+    "buildSystemArgumentList": [],
+    "cFlagList": [],
+    "cppFlagsList": [
+      "-std\u003dc++11"
+    ],
+    "variantName": "release",
+    "soFolder": "E:\\dev\\work\\app\\TaskOk\\app\\build\\intermediates\\cmake\\release\\lib",
+    "objFolder": "E:\\dev\\work\\app\\TaskOk\\app\\build\\intermediates\\cmake\\release\\obj",
+    "jsonFolder": "E:\\dev\\work\\app\\TaskOk\\app\\.cxx\\cmake\\release",
+    "gradleBuildOutputFolder": "E:\\dev\\work\\app\\TaskOk\\app\\.cxx\\cxx\\release",
+    "isDebuggableEnabled": false,
+    "validAbiList": [
+      "ARMEABI_V7A",
+      "ARM64_V8A",
+      "X86",
+      "X86_64"
+    ],
+    "buildTargetSet": []
+  },
+  "abi": "X86_64",
+  "abiPlatformVersion": 16,
+  "cxxBuildFolder": "E:\\dev\\work\\app\\TaskOk\\app\\.cxx\\cmake\\release\\x86_64",
+  "jsonFile": "E:\\dev\\work\\app\\TaskOk\\app\\.cxx\\cmake\\release\\x86_64\\android_gradle_build.json",
+  "gradleBuildOutputFolder": "E:\\dev\\work\\app\\TaskOk\\app\\.cxx\\cxx\\release\\x86_64",
+  "objFolder": "E:\\dev\\work\\app\\TaskOk\\app\\build\\intermediates\\cmake\\release\\obj\\x86_64",
+  "buildCommandFile": "E:\\dev\\work\\app\\TaskOk\\app\\.cxx\\cmake\\release\\x86_64\\build_command.txt",
+  "buildOutputFile": "E:\\dev\\work\\app\\TaskOk\\app\\.cxx\\cmake\\release\\x86_64\\build_output.txt",
+  "modelOutputFile": "E:\\dev\\work\\app\\TaskOk\\app\\.cxx\\cmake\\release\\x86_64\\build_model.json",
+  "cmake": {
+    "cmakeListsWrapperFile": "E:\\dev\\work\\app\\TaskOk\\app\\.cxx\\cxx\\release\\x86_64\\CMakeLists.txt",
+    "toolchainWrapperFile": "E:\\dev\\work\\app\\TaskOk\\app\\.cxx\\cxx\\release\\x86_64\\android_gradle_build.toolchain.cmake",
+    "buildGenerationStateFile": "E:\\dev\\work\\app\\TaskOk\\app\\.cxx\\cxx\\release\\x86_64\\build_generation_state.json",
+    "cacheKeyFile": "E:\\dev\\work\\app\\TaskOk\\app\\.cxx\\cxx\\release\\x86_64\\compiler_cache_key.json",
+    "compilerCacheUseFile": "E:\\dev\\work\\app\\TaskOk\\app\\.cxx\\cxx\\release\\x86_64\\compiler_cache_use.json",
+    "compilerCacheWriteFile": "E:\\dev\\work\\app\\TaskOk\\app\\.cxx\\cxx\\release\\x86_64\\compiler_cache_write.json",
+    "toolchainSettingsFromCacheFile": "E:\\dev\\work\\app\\TaskOk\\app\\.cxx\\cxx\\release\\x86_64\\compiler_settings_cache.cmake",
+    "cmakeWrappingBaseFolder": "."
+  },
+  "jsonGenerationLoggingRecordFile": "E:\\dev\\work\\app\\TaskOk\\app\\.cxx\\cmake\\release\\x86_64\\json_generation_record.json",
+  "compileCommandsJsonFile": "E:\\dev\\work\\app\\TaskOk\\app\\.cxx\\cmake\\release\\x86_64\\compile_commands.json"
+}
